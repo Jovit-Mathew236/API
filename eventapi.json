@@ -10,11 +10,43 @@
     },
     "Radiance": {
         "1": "Hedwig's Beat",
-        "2": "Venture-Idea Pitching compatition",
-        "3": "Fix it",
-        "4": "Tyre Flipping Chalange",
-        "5": "Engine Tunning Workshop",
-        "6": "RC Car racing",
-        "7": "Wild Ride"
+        "2": "THE MAURAUDERS MAP",
+        "3": "THE TRIWIZARD MAZE",
+        "4": "SECRTS OF THE DARKEST ARTS",
+        "5": "EXPECTO PATRONUM",
+        "6": "THE WIZRD SKITTLES",
+        "7": "DEATHLY HALLOWS",
+        "8": "THE QUIDDITCH",
+        "9": "THE WANDMAKER"
+    },
+    "EMERGE": {
+        "1": "SPOTLIGHT EXPO",
+        "2": "WS: EV",
+        "3": "WS: ELECTRICAL SYSTEM",
+        "4": "HOLOGRAM",
+        "5": "MUSICAL STAIRS",
+        "6": "TECHNOFRENZY",
+        "7": "VAN DE GRAFFF GENERATOR"
+    },
+    "SPECTRA": {
+        "1": "SCAVENGER HUN",
+        "2": "COSMO 2K22",
+        "3": "READY TO RACE",
+        "4": "SECONDS TO WIN IT",
+        "5": "WAY BO",
+        "6": "LASER TAG"
+    },
+    "CIVISTA": {
+        "1": "CAD MANIA",
+        "2": "BRIDGE DESIGN",
+        "3": "SURVEY COMPETITION",
+        "4": "MINI SQUID GAME",
+        "5": "TREASURE HUNT",
+        "6": "EXCELLKENCIA",
+        "7": "EXPERT TALKS"
+    },
+    "FENSTRA": {
+        "1": "LAN GAMING",
+        "2": "TECHNICAL TREASURE HUNT"
     }
 }
